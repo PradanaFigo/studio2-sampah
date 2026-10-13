@@ -1,0 +1,13 @@
+# DATASET: jangan di-push ke repo publik (aturan Studio 2)
+train/
+my_train/
+my_val/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Bobot per-run (hanya submission/model.pth yang di-commit)
+runs/*/model.pth
