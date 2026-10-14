@@ -1,0 +1,2 @@
+tag,backbone,strategy,img_size,epochs,lr,seed,pretrained,full_data,params_total,params_trained_final,best_epoch,macro_f1,accuracy,f1_botol_plastik,f1_gelas_plastik,f1_kertas_kardus,f1_saset_kemasan,f1_styrofoam,seconds
+convnext_tiny_full_224_s42,convnext_tiny,full,224,10,0.0001,42,True,False,27823973,27823973,8,0.966,0.9707,1.0,0.961,0.9126,0.995,0.9612,283
